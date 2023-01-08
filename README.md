@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KGB-Operative
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Python and Discord.js
+- 🌱 I’m currently learning Python, JavaScript and Discord.js
 
 <!---
 KGB-Operative/KGB-Operative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
