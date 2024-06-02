@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @TH3S3RP3NT
+# Hello there!
+
+- 👋 I’m @TH3S3RP3NT
 - 👀 I’m interested in coding and gaming
 - 📚 I’m currently learning Python, JavaScript, PHP and MySQL
 
 
-### My Stats
+## My Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=th3s3rp3nt&show_icons=true&theme=omni)
 
