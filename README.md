@@ -1,16 +1,49 @@
-# Hello there!
 
-- 👋 I’m @TH3S3RP3NT
-- 👀 I’m interested in coding and gaming
-- 📚 I’m currently learning Python, JavaScript, PHP and MySQL
+```python
+class AboutMe:
+    def name():
+        return "TH3S3RP3NT"
+
+    def languages():
+        return [
+            "English",
+            "Dutch",
+            "French"
+        ]
+
+    def coding_languages():
+        return [
+            "HTML",
+            "CSS",
+            "Java",
+            "PHP",
+            "Python"
+        ]
 
 
-## My Stats
+    def socials():
+        return {
+            "discord": "KGB_Operative"
+        }
+```
 
-![My GitHub stats](https://github-readme-stats-mauve-ten-81.vercel.app/api?username=th3s3rp3nt&show_icons=true&theme=omni)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3s3rp3nt&theme=omni&layout=donut)
-<!---
-TH3S3RP3NT/TH3S3RP3NT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤹 Recent Activity
+```
+⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
+⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
+⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
+⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
+⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
+```
+## 🌟 Cool Repos
+```
+⭐️ 1 📦 TH3S3RP3NT/SambalBami
+⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub_Gamesense
+⭐️ 0 📦 TH3S3RP3NT/Congratulations
+⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
+⭐️ 0 📦 TH3S3RP3NT/github-readme-stats
+```
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats-mauve-ten-81.vercel.app/api?username=th3s3rp3nt&show_icons=true&theme=omni">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3s3rp3nt&theme=omni&layout=donut"
+</p>
