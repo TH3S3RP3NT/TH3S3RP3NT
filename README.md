@@ -1,17 +1,17 @@
 
 ```python
 class AboutMe:
-    def name():
+    def name(self):
         return "TH3S3RP3NT"
 
-    def languages():
+    def languages(self):
         return [
             "English",
             "Dutch",
             "French"
         ]
 
-    def coding_languages():
+    def coding_languages(self):
         return [
             "HTML",
             "CSS",
@@ -21,7 +21,7 @@ class AboutMe:
         ]
 
 
-    def socials():
+    def socials(self):
         return {
             "discord": "KGB_Operative"
         }
@@ -31,7 +31,7 @@ class AboutMe:
 ```
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
-⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
+⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
 ⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
 ```
