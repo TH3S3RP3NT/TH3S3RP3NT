@@ -2,7 +2,7 @@ name: Widgets
 
 on:
   schedule:
-    - cron: '5 */1 * * *'
+    - cron: '0 */24 * * *'
   push:
     branches:
       - master
