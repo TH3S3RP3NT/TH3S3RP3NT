@@ -18,6 +18,7 @@ class AboutMe:
             "JavaScript",
             "PHP",
             "Python"
+            "Lua"
         ]
 
 
