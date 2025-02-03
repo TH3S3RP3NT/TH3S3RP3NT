@@ -32,8 +32,8 @@ class AboutMe:
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
-⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
-⬆️ Pushed 1 commit to TH3S3RP3NT/privatetest
+⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
+⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ```
 ## 🌟 Cool Repos
 ```
@@ -43,6 +43,8 @@ class AboutMe:
 ⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
 ⭐️ 0 📦 TH3S3RP3NT/github-readme-stats
 ```
+
+## 📈 My Stats
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats-mauve-ten-81.vercel.app/api?username=th3s3rp3nt&show_icons=true&theme=omni">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3s3rp3nt&theme=omni&layout=donut"
