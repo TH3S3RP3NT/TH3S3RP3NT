@@ -15,7 +15,7 @@ class AboutMe:
         return [
             "HTML",
             "CSS",
-            "Java",
+            "JavaScript",
             "PHP",
             "Python"
         ]
