@@ -17,14 +17,14 @@ class AboutMe:
             "CSS",
             "JavaScript",
             "PHP",
-            "Python"
+            "Python",
             "Lua"
         ]
 
 
     def socials(self):
         return {
-            "discord": "KGB_Operative"
+            "Discord": "KGB_Operative"
         }
 ```
 
