@@ -15,21 +15,22 @@ class AboutMe:
         return [
             "HTML",
             "CSS",
-            "Java",
+            "JavaScript",
             "PHP",
-            "Python"
+            "Python",
+            "Lua"
         ]
 
 
     def socials(self):
         return {
-            "discord": "KGB_Operative"
+            "Discord": "KGB_Operative"
         }
 ```
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
+⬆️ Pushed 1 commit to TH3S3RP3NT/DiscordAutoMessage
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
@@ -40,8 +41,8 @@ class AboutMe:
 ⭐️ 1 📦 TH3S3RP3NT/SambalBami
 ⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub_Gamesense
 ⭐️ 0 📦 TH3S3RP3NT/Congratulations
+⭐️ 0 📦 TH3S3RP3NT/DiscordAutoMessage
 ⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
-⭐️ 0 📦 TH3S3RP3NT/github-readme-stats
 ```
 
 ## 📈 My Stats
