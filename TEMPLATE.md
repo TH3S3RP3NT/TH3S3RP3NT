@@ -13,8 +13,6 @@ class AboutMe:
 
     def coding_languages(self):
         return [
-            "HTML",
-            "CSS",
             "JavaScript",
             "PHP",
             "Python",
