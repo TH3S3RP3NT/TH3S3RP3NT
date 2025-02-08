@@ -13,8 +13,6 @@ class AboutMe:
 
     def coding_languages(self):
         return [
-            "HTML",
-            "CSS",
             "JavaScript",
             "PHP",
             "Python",
@@ -30,11 +28,11 @@ class AboutMe:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to TH3S3RP3NT/DiscordAutoMessage
-⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
-⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
-⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
-⬆️ Pushed 1 commit to TH3S3RP3NT/TH3S3RP3NT
+⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
+⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
+⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
+⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
+⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
 ```
 ## 🌟 Cool Repos
 ```
