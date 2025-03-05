@@ -28,16 +28,16 @@ class AboutMe:
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to TH3S3RP3NT/ThighHighsClub
 ⬆️ Pushed 2 commits to TH3S3RP3NT/HollandsOude
 ⬆️ Pushed 2 commits to TH3S3RP3NT/HollandsOude
-⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
 ⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
 ⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 1 📦 TH3S3RP3NT/SambalBami
-⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub_Gamesense
+⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub
 ⭐️ 0 📦 TH3S3RP3NT/Congratulations
 ⭐️ 0 📦 TH3S3RP3NT/DiscordAutoMessage
 ⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
