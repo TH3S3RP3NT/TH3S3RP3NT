@@ -32,7 +32,6 @@ class AboutMe:
 ⬆️ Pushed 2 commits to TH3S3RP3NT/HollandsOude
 ⬆️ Pushed 2 commits to TH3S3RP3NT/HollandsOude
 ⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
-⬆️ Pushed 1 commit to TH3S3RP3NT/HollandsOude
 ```
 ## 🌟 Cool Repos
 ```
