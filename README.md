@@ -35,9 +35,9 @@ class AboutMe:
 ```
 ⭐️ 1 📦 TH3S3RP3NT/SambalBami
 ⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub
+⭐️ 0 📦 kinderlokkerr/totm1
 ⭐️ 0 📦 TH3S3RP3NT/Congratulations
 ⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
-⭐️ 0 📦 TH3S3RP3NT/github-readme-stats
 ```
 
 ## 📈 My Stats
