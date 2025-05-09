@@ -28,7 +28,7 @@ class AboutMe:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to TH3S3RP3NT/InformaticaGame
+
 ```
 ## 🌟 Cool Repos
 ```
