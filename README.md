@@ -30,8 +30,8 @@ class AboutMe:
 ```
 ⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
 ⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
-⬆️ Pushed undefined commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
+⬆️ Pushed undefined commit to TH3S3RP3NT/TH3S3RP3NT
 ⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
 ```
 ## 🌟 Cool Repos
