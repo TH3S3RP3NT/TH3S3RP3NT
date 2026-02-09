@@ -29,7 +29,6 @@ class AboutMe:
 ## 🤹 Recent Activity
 ```
 ⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
-⬆️ Pushed undefined commit to TH3S3RP3NT/Informatica_spelv2
 ```
 ## 🌟 Cool Repos
 ```
