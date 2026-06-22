@@ -32,11 +32,11 @@ class AboutMe:
 ```
 ## 🌟 Cool Repos
 ```
+⭐️ 1 📦 TH3S3RP3NT/CS2Internal
 ⭐️ 1 📦 TH3S3RP3NT/SambalBami
 ⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub
 ⭐️ 0 📦 kinderlokkerr/totm1
 ⭐️ 0 📦 TH3S3RP3NT/Congratulations
-⭐️ 0 📦 TH3S3RP3NT/EUVATPDFgenerator
 ```
 
 ## 📈 My Stats
