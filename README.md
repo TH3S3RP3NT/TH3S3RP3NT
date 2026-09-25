@@ -28,15 +28,19 @@ class AboutMe:
 
 ## 🤹 Recent Activity
 ```
-
+⬆️ Pushed undefined commit to TH3S3RP3NT/CorlaerBroodjes
+⬆️ Pushed undefined commit to TH3S3RP3NT/CorlaerBroodjes
+⬆️ Pushed undefined commit to TH3S3RP3NT/CorlaerBroodjes
+⬆️ Pushed undefined commit to TH3S3RP3NT/CorlaerBroodjes
+⬆️ Pushed undefined commit to TH3S3RP3NT/CorlaerBroodjes
 ```
 ## 🌟 Cool Repos
 ```
+⭐️ 1 📦 TH3S3RP3NT/CorlaerBroodjes
 ⭐️ 1 📦 TH3S3RP3NT/CS2Internal
 ⭐️ 1 📦 TH3S3RP3NT/SambalBami
 ⭐️ 1 📦 TH3S3RP3NT/ThighHighsClub
 ⭐️ 0 📦 kinderlokkerr/totm1
-⭐️ 0 📦 TH3S3RP3NT/Congratulations
 ```
 
 ## 📈 My Stats
